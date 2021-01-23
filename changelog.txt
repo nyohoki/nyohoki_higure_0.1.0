@@ -1,0 +1,5 @@
+==========0.1.0=========
+Always night time.
+Pitch black.
+Light intensity of lamps lowered. Intensity set to 0.5
+Radius of lamp light lowered. Size set to 27
