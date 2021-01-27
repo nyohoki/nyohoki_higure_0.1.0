@@ -22,7 +22,7 @@ data.raw.lamp["small-lamp"].light_when_colored =
 }
 data.raw.character.character.light =
 {
-    minimum_darkness = 1,
+    minimum_darkness = 0.1,
     intensity = settings.startup["player-light-intensity"].value,
     size = settings.startup["player-light-size"].value,
     color =
