@@ -1,4 +1,0 @@
-=============0.1.0=============
-Always night time and very dark.
-Light provided by Lamps and Player can be adjusted.
-Head light for player removed.
