@@ -1,4 +1,5 @@
 -- adjust lights
+data.raw["night-vision-equipment"]["night-vision-equipment"].darkness_to_turn_on = 0.1
 data.raw.lamp["small-lamp"].darkness_for_all_lamps_on = 0.1
 data.raw.lamp["small-lamp"].darkness_for_all_lamps_off = 0.1
 data.raw.lamp["small-lamp"].light =
